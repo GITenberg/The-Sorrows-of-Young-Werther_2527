@@ -1,5 +1,5 @@
 _repo: The-Sorrows-of-Young-Werther_2527
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Die Leiden des jungen Werther
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Boylan, R. D. (R. Dillon)
     gutenberg_agent_id: '952'
     url: http://www.gutenberg.org/2009/agents/952
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -28,6 +31,8 @@ description: "The Sorrows of Young Werther (German: Die Leiden des jungen Werthe
   \ of his works to the general public. Towards the end of Goethe's life, a personal\
   \ visit to Weimar became a crucial stage in any young man's Grand Tour of Europe.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2527#The-Sorrows-of-Young-Werther
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Harvard Classics
